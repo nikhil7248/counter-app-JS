@@ -1,0 +1,5 @@
+counter-app/
+│
+├── index.html       # Main HTML structure
+├── style.css        # Styling of the counter
+└── script.js        # Core counter logic (increment/decrement/reset)
