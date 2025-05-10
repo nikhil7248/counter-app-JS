@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+.count {
+    font-size : 3 rem;
+
+}
+button {
+    padding : 10px 16px ;
+    background-color: cyan;
+    border: 1px solid grey ;
+    border-radius : 4px;
+    cursor : pointer ;
+    font-size : 1 rem;
+}
+
+div {
+    margin: 20px auto
+
+}
+
+input.changeby {
+    width: 60px;
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.reset-btn {
+    margin-top: 20px;
+    background-color: cyan;
+    color: white;
+}
+
+.reset-btn:hover {
+    background-color: cyan;
+}
