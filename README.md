@@ -23,7 +23,8 @@ A simple, interactive counter web application built using HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-![Counter App Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+![Counter App Screenshot](<img width="1440" alt="Screenshot 2025-05-11 at 12 12 22 AM" src="https://github.com/user-attachments/assets/b7d5c148-9c46-4f8f-a935-67eb20dd0d91" />
+ot.p) <!-- Replace with actual screenshot if available -->
 
 ---
 
